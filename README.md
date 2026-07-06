@@ -16,7 +16,7 @@ A highly motivated Software Engineer specializing in **Flutter**, with over **4 
 
 - 🔭 Built advanced map, AR (ARKit) and gaming features as a **Flutter Developer at 28apps, Germany**
 - 🌱 Expanding into backend development with **NestJS**
-- 📱 5+ years shipping production Flutter apps across e-learning, fintech/ERP, facial recognition, hospitality and gaming
+- 📱 4+ years shipping production Flutter apps across e-learning, fintech/ERP, facial recognition, hospitality and gaming
 - 🌍 Worked across Egypt, Dubai and Germany in team and freelance settings
 - 📫 Reach me at **o.abdelkader05@gmail.com**
 
