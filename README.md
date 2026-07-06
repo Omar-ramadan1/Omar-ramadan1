@@ -12,9 +12,9 @@
 
 ### 🚀 About Me
 
-A highly motivated Software Engineer specializing in **Flutter**, with over **5 years of experience** building innovative mobile and desktop applications. Experienced in both team-based and freelance environments, with a proven ability to manage entire projects independently. Known for a proactive, solution-oriented mindset and a strong commitment to continuous learning and improvement.
+A highly motivated Software Engineer specializing in **Flutter**, with over **4 years of experience** building innovative mobile and desktop applications. Experienced in both team-based and freelance environments, with a proven ability to manage entire projects independently. Known for a proactive, solution-oriented mindset and a strong commitment to continuous learning and improvement.
 
-- 🔭 Currently building advanced map, AR (ARKit) and gaming features as a **Flutter Developer at 28apps, Germany**
+- 🔭 Built advanced map, AR (ARKit) and gaming features as a **Flutter Developer at 28apps, Germany**
 - 🌱 Expanding into backend development with **NestJS**
 - 📱 5+ years shipping production Flutter apps across e-learning, fintech/ERP, facial recognition, hospitality and gaming
 - 🌍 Worked across Egypt, Dubai and Germany in team and freelance settings
@@ -46,7 +46,7 @@ A highly motivated Software Engineer specializing in **Flutter**, with over **5 
 
 | Role | Company | Period |
 |---|---|---|
-| Flutter Developer | 28apps — Germany | Apr 2025 – Jul 2026 |
+| Flutter Developer | 28apps — Germany | Apr 2025 – Jun 2026 |
 | Flutter Developer | BOT — Dubai | Mar 2023 – Sep 2024 |
 | Flutter Developer | Pixel Stamp — Egypt | Jan 2021 – Mar 2023 |
 | System Administrator | Egyptian Navy | Oct 2020 – Nov 2021 |
